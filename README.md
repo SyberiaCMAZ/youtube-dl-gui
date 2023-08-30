@@ -16,7 +16,7 @@
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/maciekiwaniuk/youtube-downloader
+    git clone [https://github.com/SyberiaCMAZ/youtube-dl-gui]
     ```
 2. Install the necessary dependencies:
     ```bash
