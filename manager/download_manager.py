@@ -1,6 +1,6 @@
 # download_manager.py
 from pytube import YouTube
-from file_manager import load_settings, clean_move_files
+from .file_manager import load_settings, clean_move_files
 import threading, ffmpeg, os
 
 def download_vids(link):

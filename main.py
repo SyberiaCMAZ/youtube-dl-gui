@@ -1,4 +1,4 @@
-from ui_manager import App
+from manager.ui_manager import App
 
 if __name__ == "__main__":
     app = App()

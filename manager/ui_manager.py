@@ -1,7 +1,7 @@
 import customtkinter
 from pytube import YouTube
-from download_manager import download_vids
-from file_manager import load_settings, save_setting
+from .download_manager import download_vids
+from .file_manager import load_settings, save_setting
 
 
 class App(customtkinter.CTk):
